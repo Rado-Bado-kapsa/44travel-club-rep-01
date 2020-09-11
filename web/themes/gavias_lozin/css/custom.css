@@ -1,0 +1,12 @@
+/*mioje upravy*/
+/*testemonial image*/
+.testimonial-node-3 .avatar img {
+      width: 160px;
+      border-radius: 30%;
+      -webkit-border-radius: 30%;
+      -moz-border-radius: 30%;
+      -ms-border-radius: 30%;
+      -o-border-radius: 30%;
+      -webkit-box-shadow: 0 8px 10px 0 rgba(0, 0, 0, 0.2);
+       box-shadow: 0 8px 10px 0 rgba(0, 0, 0, 0.2);
+ }
